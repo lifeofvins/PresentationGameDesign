@@ -16,6 +16,14 @@ here you can have an overall view on what are the references to have a proper id
 - the main character has a contiguous parallelism with wall-e from pixar: a robot with a predetermined function made up by humans which discovers its emotions and fights for reaching something else.
 - the game mechanics deeply recall the main mechanic from chibi-robo!: in this game, the main character is a robot with a battery which level has to be keeped under control during the game and,
 eventually, charge it. in our game, as your're going to discover soon, this parallelism can be reached in the mechanic of temperature which regulates the behaviour of the main character.
-- a reference for the puzzle level design of our game can be found in portal's one. 
-- rime is a great reference for the graphic: a 
-- last, but not least, we shall mention super mario 3d world as a great reference for the platform level design.
+- a reference for the puzzle level design of our game can be found in portal's one. there are different levels in which the players are asked to learn the basic rules and mechanisms in order
+to sort out environmental puzzles and challenges to achieve main and secondary missions.
+- rime is a great reference for the graphic: a cartoonish world with an original soundtrack that drives the user through an immersive gameplay.
+- last, but not least, we shall mention super mario 3d world as a great reference for the platform level design. our protagonist is able to jump and run all around the level and it can interact with the
+physical component of the level in order to explore it and reach new locations.
+
+### slide 4
+in short, first of a kind is a single-player 3d puzzle-platformer with a story driven gameplay that would be available on windows and mac operative systems. there are different mechanics related to the temperature
+and it'd be possible to add new mechanics related to electricity and thermal excange that will be soon explained.
+there will be 7 locations and an average of 5 hours of gameplay, during which the players will discover 10 characters with personal and unique stories to be told and over 50 collectible items which will
+inspire all the players to seek around through the map and solve the puzzles in a non-trivial way in order to collect all of them.
