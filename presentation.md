@@ -11,8 +11,11 @@ the empathy toward the world. this theme has driven us to focus on the very firs
 the process of discovering, understanding and managing the emotions is the main element of our game.
 
 ### slide 3
-here you can have an overall view on what are the references to have a proper 
-the main character has a contiguous parallelism with wall-e from pixar: a robot with a predetermined function made up by humans which discovers its emotions and fights for reaching something else.
-the game mechanics deeply recall the main mechanic from chibi-robo!: in this game, the main character is a robot with a battery which level has to be keeped under control during the game and,
-eventually, charge it.
+here you can have an overall view on what are the references to have a proper idea about our game.
 
+- the main character has a contiguous parallelism with wall-e from pixar: a robot with a predetermined function made up by humans which discovers its emotions and fights for reaching something else.
+- the game mechanics deeply recall the main mechanic from chibi-robo!: in this game, the main character is a robot with a battery which level has to be keeped under control during the game and,
+eventually, charge it. in our game, as your're going to discover soon, this parallelism can be reached in the mechanic of temperature which regulates the behaviour of the main character.
+- a reference for the puzzle level design of our game can be found in portal's one. 
+- rime is a great reference for the graphic: a 
+- last, but not least, we shall mention super mario 3d world as a great reference for the platform level design.
