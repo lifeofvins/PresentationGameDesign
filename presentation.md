@@ -5,7 +5,7 @@ welcome everybody to the ultimate presentation of the pitch document of our firs
 
 ### slide 2
 do you remember about when you were a child and you started discovering and understanding your emotions?
-if you carefully focus on those moments, you could even remember how complicated it was when you were dealing with new emotions, new feeling and new sensations.
+if you carefully focus on those moments, you could even remember how complicated it was when you were dealing with new emotions, new feelings and new sensations.
 throughout the years, growing up and experiencing life with all its high and low, people's emotions steadily get flatter, causing a progressive diminuition of
 the empathy toward the world. this theme has driven us to focus on the very first concept of this game.
 the process of discovering, understanding and managing the emotions is the main element of our game.
