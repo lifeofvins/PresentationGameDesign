@@ -13,7 +13,8 @@ the process of discovering, understanding and managing the emotions is the main 
 ### slide 3
 here you can have an overall view on what are the references to have a proper idea about our game.
 
-- the main character has a contiguous parallelism with wall-e from pixar: a robot with a predetermined function made up by humans which discovers its emotions and fights for reaching something else.
+- the main character has a contiguous parallelism with wall-e from pixar: a robot with a predetermined function made up by humans which discovers its emotions and fights for reaching something else; in our case,
+the protagonist aims to reach the truth about their roots.
 - the game mechanics deeply recall the main mechanic from chibi-robo!: in this game, the main character is a robot with a battery which level has to be keeped under control during the game and,
 eventually, charge it. in our game, as your're going to discover soon, this parallelism can be reached in the mechanic of temperature which regulates the behaviour of the main character.
 - a reference for the puzzle level design of our game can be found in portal's one. there are different levels in which the players are asked to learn the basic rules and mechanisms in order
